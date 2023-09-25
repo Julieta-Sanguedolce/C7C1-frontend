@@ -49,6 +49,7 @@ export default function ContentDisplayer({
                     />
                 )}
             </HStack>
+
             <Stack pt={"2vh"} direction="row" align="flex-start">
                 <RecommendationList
                     recommendationList={recommendationList}
